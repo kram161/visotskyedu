@@ -57,3 +57,15 @@
     }
   }
 }
+@media (max-width: 576px) {
+  .programm-block{
+    &__unit{
+      &__more-information{
+        &__description{
+          position: relative;
+          top:-17px;
+        }
+      }
+    }
+  }
+}

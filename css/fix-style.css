@@ -67,3 +67,10 @@
   padding: 0 0 16px 0;
   margin: 0;
 }
+
+@media (max-width: 576px) {
+  .programm-block__unit__more-information__description {
+    position: relative;
+    top: -17px;
+  }
+}
