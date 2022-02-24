@@ -68,7 +68,7 @@
   margin: 0;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 575px) {
   .programm-block__unit__more-information__description {
     position: relative;
     top: -17px;
