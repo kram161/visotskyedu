@@ -118,9 +118,41 @@
   text-decoration: line-through;
 }
 
+.prices__button-mobile {
+  display: none;
+}
+
 @media screen and (max-width: 1200px) {
   .programm-block {
     border: none;
+  }
+}
+@media screen and (max-width: 992px) {
+  .prices__right__text__credit, .prices__right__text__full-price {
+    padding: 0 0 40px 0;
+    margin: 0 0 25px 0;
+  }
+  .prices__right__text__full-price {
+    margin: 0 0 20px 0;
+  }
+}
+@media screen and (max-width: 767px) {
+  .prices__button {
+    display: none;
+  }
+
+  .prices-list {
+    margin-bottom: 0;
+  }
+
+  .prices__button-mobile {
+    display: inline-block;
+    max-width: 300px;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    height: auto;
+    padding: 16px 0;
   }
 }
 @media screen and (max-width: 575px) {
@@ -134,5 +166,16 @@
 
   .video {
     height: 50vh;
+  }
+
+  .prices__right__text {
+    width: 90%;
+  }
+  .prices__right__text__credit, .prices__right__text__full-price {
+    padding: 0 0 20px 0;
+    margin: 0 0 25px 0;
+  }
+  .prices__right__text__full-price {
+    margin: 0 0 20px 0;
   }
 }

@@ -496,7 +496,7 @@ date.dd {
                             <div class="prices-list__item">
                                 <img class="lazy" data-src="images/prices/1-1.webp" alt="6 дней тренинга">
                                 <div class="prices-list__text">
-                                    <b>6 дней тренинга</b>с разбором элементов системы масштабирования от Александра Высоцкого
+                                    <b>6 дней тренинга</b> с разбором элементов системы масштабирования от Александра Высоцкого
                                 </div>
                             </div>
                             <div class="prices-list__item ai-start">
@@ -524,7 +524,7 @@ date.dd {
                                 </div>
                             </div>
                         </div>
-                        <a class="btn prices__button btn--arrow btn--hover-black" href="#feedback" rel="modal:open">Записаться</a> </div>
+                        <a class="btn prices__button btn--arrow btn--hover-black" href="#feedback" rel="modal:open">Оставить заявку</a> </div>
                     <div class="col-md-6">
                         <div class="prices__right">
                             <svg width="461" height="610" viewBox="0 0 461 610" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -548,6 +548,7 @@ date.dd {
                             </div>
                         </div>
                     </div>
+                    <a class="btn prices__button-mobile btn--hover-black" href="#feedback" rel="modal:open">Оставить заявку</a> </div>
                 </div>
             </div>
         </section>
