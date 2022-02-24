@@ -479,6 +479,78 @@ date.dd {
                 </div>
             </div>
         </section>
+        <section class="section" id="video">
+            <div class="container">
+                <div class="video">
+                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/KYUF2kzjfis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+        </section>
+        <section class="section section--theme-yellow">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 p-relative">
+                        <h2 class="h1"><b>Стоимость тренинга</b></h2>
+                        <div class="h3"><b>“Система эффективного бизнеса”</b></div>
+                        <div class="prices-list h5">
+                            <div class="prices-list__item">
+                                <img class="lazy" data-src="images/prices/1-1.webp" alt="6 дней тренинга">
+                                <div class="prices-list__text">
+                                    <b>6 дней тренинга</b>с разбором элементов системы масштабирования от Александра Высоцкого
+                                </div>
+                            </div>
+                            <div class="prices-list__item ai-start">
+                                <img class="lazy" data-src="images/prices/1-2.webp" alt="9+ инструментов управления бизнесом">
+                                <div class="prices-list__text">
+                                    <b>9+</b> инструментов управления бизнесом (найм, финансы, статистики, планирование и др.)
+                                </div>
+                            </div>
+                            <div class="prices-list__item ai-start">
+                                <img class="lazy" data-src="images/prices/1-3.webp" alt="по 2 часа интенсивной прокачки">
+                                <div class="prices-list__text">
+                                    <b>Разборы практических заданий</b> с обратной связью консультанта
+                                </div>
+                            </div>
+                            <div class="prices-list__item ai-start">
+                                <img class="lazy" data-src="images/prices/1-4.webp" alt="Разбор консультанта с полным сопровождением до результата">
+                                <div class="prices-list__text">
+                                    <b>31 готовый документ</b> (регламенты, политики и должностные инструкции)
+                                </div>
+                            </div>
+                            <div class="prices-list__item ai-start">
+                                <img class="lazy" data-src="images/prices/1-5.webp" alt="31 готовый документ (регламенты, политики и должностные инструкции)">
+                                <div class="prices-list__text">
+                                    <b>Доступ</b> к записям тренинга <b>на год</b>
+                                </div>
+                            </div>
+                        </div>
+                        <a class="btn prices__button btn--arrow btn--hover-black" href="#feedback" rel="modal:open">Записаться</a> </div>
+                    <div class="col-md-6">
+                        <div class="prices__right">
+                            <svg width="461" height="610" viewBox="0 0 461 610" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <rect x="10.9961" y="590" width="440" height="10" fill="white" fill-opacity="0.2"/>
+                                <rect x="20.9961" y="600" width="420" height="10" fill="white" fill-opacity="0.1"/>
+                                <rect x="0.996094" width="460" height="590" fill="#FEE04E"/>
+                                <path d="M397 0H461V64L429.865 33.7297L397 0Z" fill="#FDD303"/>
+                                <path d="M461 64H397V0L428.135 30.2703L461 64Z" fill="#E1C333"/>
+                            </svg>
+                            <div class="prices__right__text">
+                                <div class="prices__right__text__credit">
+                                    <div class="h4">В рассрочку на год:</div>
+                                    <div class="h1"><b>2 715 <span>руб./мес.</span></b></div>
+                                </div>
+                                <div class="prices__right__text__full-price">
+                                    <div class="h4">Полная стоимость сегодня:</div>
+                                    <div class="h1"><b>29 000 <span>руб.</span></b></div>
+                                    <div class="h2"><b>49 000 <span>руб.</span></b></div>
+                                </div>
+                                <div class="h4">Старт тренинга: 14 февраля</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <section class="section section--theme-dark results overflow-hidden lazy" data-bg="images/results/bg.webp" id="results">
             <div class="container">
                 <div class="row">
@@ -540,47 +612,6 @@ date.dd {
                         </ul>
                     </div>
                     <div class="col-sm-6 col-10"><img class="w-100 lazy" data-src="images/author/1.webp" alt="Александр Высоцкий"></div>
-                </div>
-            </div>
-        </section>
-        <section class="section section--theme-yellow">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 p-relative">
-                        <div class="prices__sale lazy" data-bg="images/prices/sale.svg"><span class="d-block h2"><b>-54%</b></span> <date class="dd">до 14</date> <date class="mm">ноября</date></div>
-                        <h2 class="h1"><b>Стоимость тренинга</b></h2>
-                        <div class="prices-list h5">
-                            <div class="prices-list__item"><img class="lazy" data-src="images/prices/1.webp" alt="Первый платеж через 30 дней">
-                                <div class="prices-list__text">Первый платеж<b> через 30 дней</b></div>
-                            </div>
-                            <div class="prices-list__item ai-start"><img class="lazy" data-src="images/prices/2.webp" alt="Рассрочка без скидки 5200 руб./мес.">
-                                <div class="prices-list__text d-flex flex-wrap pt-1"><b>2715 руб./мес.</b>
-                                    <div class="prices-list__disabled">Рассрочка без скидки 5200 руб./мес.</div>
-                                </div>
-                            </div>
-                            <div class="prices-list__item ai-start"><img class="lazy" data-src="images/prices/3.webp" alt="по 2 часа интенсивной прокачки">
-                                <div class="prices-list__text"><b>6 дней</b> по 2 часа интенсивной прокачки</div>
-                            </div>
-                            <div class="prices-list__item ai-start"><img class="lazy" data-src="images/prices/4.webp" alt="Разбор консультанта с полным сопровождением до результата">
-                                <div class="prices-list__text">
-                                	<b>Разборы практических</b><span class="d-block">заданий с обратной связью консультанта</span>
-                                </div>
-                            </div>
-                            <div class="prices-list__item ai-start"><img class="lazy" data-src="images/prices/5.webp" alt="31 готовый документ (регламенты, политики и должностные инструкции)">
-                                <div class="prices-list__text">31 готовый документ<b> (регламенты, политики и должностные инструкции)</b></div>
-                            </div>
-                        </div><a class="btn prices__button btn--arrow btn--hover-black" href="#feedback" rel="modal:open">Записаться</a> </div>
-                    <div class="col-md-6">
-                        <div class="prices__right"><img class="w-100 lazy" data-src="images/prices/persone-2.webp" alt="Герман Гаврилов">
-                            <div class="prices__cv">
-                                <div class="mb-2">
-                                    <div class="h5 mb-1"><b>Герман Гаврилов</b></div>
-                                    <div class="prices__cv-sub">Основатель и CEO компании Roistat</div>
-                                </div>
-                                <p class="m-0">Более 300 сотрудников в штате, рекомендует Visotsky Consulting</p>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </section>
@@ -869,29 +900,29 @@ date.dd {
         </div>
     </section>
     </section>
-    <section class="section">
-        <div class="container">
-            <div class="row ai-center jc-center gy-2">
-                <div class="col-md-7 col-10"><img class="w-100 lazy" data-src="images/programm/1.webp" alt="О программе"></div>
-                <div class="col-lg-5">
-                    <h2 class="h1 mb-4"><b>О программе</b></h2>
-                    <div class="mb-35">
-                        <p>Тренинг включает в себя<b> 6 дней интенсивной прокачки,</b><span class="d-block"> 6 сессий с Александром Высоцким и 30-60 минут разбор практических заданий профессиональным консультантом каждый день при оформлении заявки сегодня.</span></p>
-                        <p>
-                        	А также комплект из<span class="smb-yellow-text mx-2">
-                        	<b>31 документа</b>
-                        	</span>
-                        	стоимостью <span class="d-md-block">15 000 рублей в подарок, 3 бонусных урока от топовых спикеров и 7 примеров организующих схем разных видов бизнеса.</span>
-                        </p>
+        <section class="section">
+            <div class="container">
+                <div class="row ai-center jc-center gy-2">
+                    <div class="col-md-7 col-10"><img class="w-100 lazy" data-src="images/programm/1.webp" alt="О программе"></div>
+                    <div class="col-lg-5">
+                        <h2 class="h1 mb-4"><b>О программе</b></h2>
+                        <div class="mb-35">
+                            <p>Тренинг включает в себя<b> 6 дней интенсивной прокачки,</b><span class="d-block"> 6 сессий с Александром Высоцким и 30-60 минут разбор практических заданий профессиональным консультантом каждый день при оформлении заявки сегодня.</span></p>
+                            <p>
+                                А также комплект из<span class="smb-yellow-text mx-2">
+                                <b>31 документа</b>
+                                </span>
+                                стоимостью <span class="d-md-block">15 000 рублей в подарок, 3 бонусных урока от топовых спикеров и 7 примеров организующих схем разных видов бизнеса.</span>
+                            </p>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-9"><a class="btn w-100 p-0" href="#programm"> Смотреть программу тренинга</a></div>
+                        </div>
+                        <!--<p class="m-0 mt-3"><b>Действует 100% гарантия возврата средств в течение первых 3 занятий по любой причине</b></p>-->
                     </div>
-                    <div class="row">
-                        <div class="col-lg-9"><a class="btn w-100 p-0" href="#programm"> Смотреть программу тренинга</a></div>
-                    </div>
-                    <!--<p class="m-0 mt-3"><b>Действует 100% гарантия возврата средств в течение первых 3 занятий по любой причине</b></p>-->
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
     </div>
 </main>
 
