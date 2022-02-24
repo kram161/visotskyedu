@@ -5178,6 +5178,7 @@ img:not([src]):not([srcset]) {
 }
 
 .prices__cv {
+    text-align: left;
     font-size: .875rem;
     max-width: 340px;
     color: #0c0c0c;

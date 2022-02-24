@@ -496,38 +496,47 @@ date.dd {
                             <div class="prices-list__item">
                                 <img class="lazy" data-src="images/prices/1-1.webp" alt="6 дней тренинга">
                                 <div class="prices-list__text">
-                                    <b>6 дней тренинга</b> с разбором элементов системы масштабирования от Александра Высоцкого
+                                    <b>6 дней тренинга</b> с разбором элементов системы масштабирования от Александра
+                                    Высоцкого
                                 </div>
                             </div>
                             <div class="prices-list__item ai-start">
-                                <img class="lazy" data-src="images/prices/1-2.webp" alt="9+ инструментов управления бизнесом">
+                                <img class="lazy" data-src="images/prices/1-2.webp"
+                                     alt="9+ инструментов управления бизнесом">
                                 <div class="prices-list__text">
-                                    <b>9+</b> инструментов управления бизнесом (найм, финансы, статистики, планирование и др.)
+                                    <b>9+</b> инструментов управления бизнесом (найм, финансы, статистики, планирование
+                                    и др.)
                                 </div>
                             </div>
                             <div class="prices-list__item ai-start">
-                                <img class="lazy" data-src="images/prices/1-3.webp" alt="по 2 часа интенсивной прокачки">
+                                <img class="lazy" data-src="images/prices/1-3.webp"
+                                     alt="по 2 часа интенсивной прокачки">
                                 <div class="prices-list__text">
                                     <b>Разборы практических заданий</b> с обратной связью консультанта
                                 </div>
                             </div>
                             <div class="prices-list__item ai-start">
-                                <img class="lazy" data-src="images/prices/1-4.webp" alt="Разбор консультанта с полным сопровождением до результата">
+                                <img class="lazy" data-src="images/prices/1-4.webp"
+                                     alt="Разбор консультанта с полным сопровождением до результата">
                                 <div class="prices-list__text">
                                     <b>31 готовый документ</b> (регламенты, политики и должностные инструкции)
                                 </div>
                             </div>
                             <div class="prices-list__item ai-start">
-                                <img class="lazy" data-src="images/prices/1-5.webp" alt="31 готовый документ (регламенты, политики и должностные инструкции)">
+                                <img class="lazy" data-src="images/prices/1-5.webp"
+                                     alt="31 готовый документ (регламенты, политики и должностные инструкции)">
                                 <div class="prices-list__text">
                                     <b>Доступ</b> к записям тренинга <b>на год</b>
                                 </div>
                             </div>
                         </div>
-                        <a class="btn prices__button btn--arrow btn--hover-black" href="#feedback" rel="modal:open">Оставить заявку</a> </div>
+                        <a class="btn prices__button btn--arrow btn--hover-black" href="#feedback" rel="modal:open">Оставить
+                            заявку</a>
+                    </div>
                     <div class="col-md-6">
                         <div class="prices__right">
-                            <svg width="461" height="610" viewBox="0 0 461 610" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <svg width="461" height="610" viewBox="0 0 461 610" fill="none"
+                                 xmlns="http://www.w3.org/2000/svg">
                                 <rect x="10.9961" y="590" width="440" height="10" fill="white" fill-opacity="0.2"/>
                                 <rect x="20.9961" y="600" width="420" height="10" fill="white" fill-opacity="0.1"/>
                                 <rect x="0.996094" width="460" height="590" fill="#FEE04E"/>
@@ -548,7 +557,7 @@ date.dd {
                             </div>
                         </div>
                     </div>
-                    <a class="btn prices__button-mobile btn--hover-black" href="#feedback" rel="modal:open">Оставить заявку</a> </div>
+                    <a class="btn prices__button-mobile btn--hover-black" href="#feedback" rel="modal:open">Оставить заявку</a>
                 </div>
             </div>
         </section>
@@ -613,6 +622,49 @@ date.dd {
                         </ul>
                     </div>
                     <div class="col-sm-6 col-10"><img class="w-100 lazy" data-src="images/author/1.webp" alt="Александр Высоцкий"></div>
+                </div>
+            </div>
+        </section>
+        <section class="section section--theme-yellow">
+            <div class="container">
+                <div class="row training-description">
+                    <div class="training-description__text">
+                        <div class="h1"><b>Почему тренинг эффективнее</b> книг/видео/ бесплатных материалов?</div>
+                    </div>
+                    <div class="training-description__block">
+                        <div class="training-description__block__image prices__right">
+                            <img class="w-100 lazy" data-src="images/prices/persone-5.webp" alt="Евгений Ермаков">
+                            <div class="prices__cv">
+                                <div class="mb-2">
+                                    <div class="h5 mb-1"><b>Юлия Дубровина</b></div>
+                                    <div class="prices__cv-sub">Специалист по тайм-менедженту и личной эффективности
+                                    </div>
+                                </div>
+                                <p class="m-0">Провела разбор более 400 кейсов владельцев бизнеса, основатель нетворкинг
+                                    клуба в Санкт-Петербурге</p>
+                            </div>
+                        </div>
+                        <div class="training-description__block__text p-relative">
+                            <div class="h2">Все 6 дней тренинга вас <b>сопровождает консультант-эксперт</b></div>
+                            <div class="prices-list h5">
+                                <div class="prices-list__item">
+                                    <img class="lazy" data-src="images/prices/1-1.webp"
+                                         alt="Отвечает на вопросы по материалам тренинга">
+                                    <div class="prices-list__text">Отвечает на вопросы по материалам тренинга</div>
+                                </div>
+                                <div class="prices-list__item">
+                                    <img class="lazy" data-src="images/prices/1-2.webp"
+                                         alt="Разбирает практические домашние задания">
+                                    <div class="prices-list__text">Разбирает практические домашние задания</div>
+                                </div>
+                                <div class="prices-list__item">
+                                    <img class="lazy" data-src="images/prices/1-4.webp"
+                                         alt="Помогает получить максимум пользы от тренинга">
+                                    <div class="prices-list__text">Помогает получить максимум пользы от тренинга</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
@@ -986,8 +1038,8 @@ date.dd {
                             </div>
                         </div>
                     </div>
-                    <a class="btn prices__button-mobile btn--hover-black" href="#feedback" rel="modal:open">Оставить заявку</a> </div>
-            </div>
+                    <a class="btn prices__button-mobile btn--hover-black" href="#feedback" rel="modal:open">Оставить заявку</a>
+                </div>
             </div>
         </section>
     </div>
