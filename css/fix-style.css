@@ -156,6 +156,95 @@
   font-weight: 400;
 }
 
+.video-slider {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.video-slider .h1 {
+  text-align: center;
+  padding: 0;
+}
+.video-slider .video-slider__button {
+  display: inline-block;
+  text-align: center;
+  max-width: 355px;
+  height: auto;
+  padding: 16px 0;
+  margin: 0 auto;
+}
+
+.carousel {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  margin: 50px 0;
+}
+.carousel__list {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+.carousel__list__element {
+  display: block;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  width: calc(33% - 11px);
+  height: 210px;
+  text-align: center;
+  margin: 0 11px;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+.carousel__list__element iframe {
+  width: 100%;
+  height: 100%;
+}
+.carousel__buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 40px 0 0 0;
+}
+.carousel__buttons__arrow-left, .carousel__buttons__arrow-right {
+  background: #FDD303;
+  padding: 15px 22px 17px 22px;
+  margin: 0 2.5px;
+  cursor: pointer;
+}
+.carousel__buttons__arrow-left svg, .carousel__buttons__arrow-right svg {
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+.carousel__buttons__arrow-left:hover svg, .carousel__buttons__arrow-right:hover svg {
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  -webkit-transform: scale(1.2, 1.2);
+          transform: scale(1.2, 1.2);
+}
+.carousel__buttons__arrow-left {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.carousel__buttons__arrow-right {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
 @media screen and (max-width: 1200px) {
   .programm-block {
     border: none;
@@ -168,6 +257,10 @@
   }
   .prices__right__text__full-price {
     margin: 0 0 20px 0;
+  }
+
+  .carousel__list__element {
+    width: calc(50% - 11px);
   }
 }
 @media screen and (max-width: 767px) {
@@ -244,5 +337,24 @@
   }
   .prices__right__text__full-price {
     margin: 0 0 20px 0;
+  }
+
+  .carousel {
+    padding: 0;
+    margin: 20px 0 10px 0;
+  }
+  .carousel__list {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .carousel__list__element {
+    width: 100%;
+    margin: 0 0 10px 0;
+    min-height: 168px;
+  }
+  .carousel__buttons {
+    display: none;
   }
 }

@@ -20,3 +20,20 @@ document.addEventListener('DOMContentLoaded', function() {
         })
     }
 });
+document.addEventListener('DOMContentLoaded', function() {
+    const inner = document.querySelector('.carousel__list');
+    inner.style.left = '-100%';
+    inner.insertBefore(inner.lastElementChild, inner.firstElementChild);
+
+    const prev = document.querySelector('.carousel__buttons__arrow-left');
+    const next = document.querySelector('.carousel__buttons__arrow-right');
+
+    prev.onclick = function() {
+        inner.insertBefore(inner.lastElementChild,  inner.firstElementChild);
+    };
+
+    next.onclick = function() {
+        inner.insertBefore(inner.firstElementChild, inner.lastElementChild.nextSibling);
+
+    }
+});

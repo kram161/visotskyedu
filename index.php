@@ -668,6 +668,42 @@ date.dd {
                 </div>
             </div>
         </section>
+        <section class="section">
+            <div class="container">
+                <div class="row video-slider">
+                    <div class="h1"><b>Отзывы выпускников</b> онлайн-тренинга “Система эффективного бизнеса”</div>
+                    <div class="carousel">
+                        <div class="carousel__list">
+                                <div class="carousel__list__element">
+                                    <iframe src="https://www.youtube.com/embed/BfgHIftIG6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <div class="carousel__list__element">
+                                    <iframe src="https://www.youtube.com/embed/f0NL7jZLL-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <div class="carousel__list__element">
+                                    <iframe src="https://www.youtube.com/embed/KYUF2kzjfis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <div class="carousel__list__element">
+                                    <iframe src="https://www.youtube.com/embed/mI2zd_o0Rkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                            </div>
+                        <div class="carousel__buttons">
+                            <div class="carousel__buttons__arrow-left">
+                                <svg width="19" height="18" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M10.915 16.1026L9.01758 18L0.0175781 9L9.01758 0L10.915 1.89742L5.1543 7.65812H18.0176V10.3419H5.1543L10.915 16.1026Z" fill="black"/>
+                                </svg>
+                            </div>
+                            <div class="carousel__buttons__arrow-right">
+                                <svg width="19" height="18" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M7.12016 16.1026L9.01758 18L18.0176 9L9.01758 0L7.12016 1.89742L12.8809 7.65812H0.0175781V10.3419H12.8809L7.12016 16.1026Z" fill="black"/>
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="btn video-slider__button" href="#feedback" rel="modal:open">Участвовать в тренинге</a>
+                </div>
+            </div>
+        </section>
         <section class="section prize">
             <div class="container">
                 <h2 class="h1 mb-35"><b>Премия бренд года</b></h2>
