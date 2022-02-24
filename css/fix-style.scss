@@ -1,0 +1,59 @@
+.programm-block{
+  border: 1px solid #000;
+  padding: 25px;
+  .mb-35{
+    text-align: center;
+  }
+  &__unit{
+    margin:60px 0 0 0;
+    &__more-information{
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      &__button{
+        display: flex;
+        justify-content: space-between;
+        padding: 8px 7px 8px 14px;
+        border: 1px solid #000000;
+        box-sizing: border-box;
+        border-radius: 5px;
+        margin:0 0 13px 0;
+        p{
+          margin:auto 0;
+        }
+        cursor: pointer;
+        svg{
+          .more-information__close-button{
+            transition: all 0.3s ease;
+          }
+        }
+      }
+      &__description{
+        position: absolute;
+        transition: all 0.3s ease;
+        top:44px;
+        padding:10px 10px 20px 10px;
+        border-left: 1px solid #000;
+        border-bottom: 1px solid #000;
+        border-right: 1px solid #000;
+        background: #fff;
+        li{
+          display: flex;
+        }
+        li:first-child{
+          border-top:1px solid #DEDEDE;
+          padding: 18px 0 0 16px;
+        }
+        li:first-child::before{
+          top:28px;
+        }
+      }
+    }
+    ul{
+      h5{
+        padding: 0 0 16px 0;
+        margin:0;
+      }
+    }
+  }
+}
