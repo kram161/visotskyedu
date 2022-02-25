@@ -65,7 +65,7 @@
 .programm-block__unit__more-information__description li:first-child::before {
   top: 28px;
 }
-.programm-block__unit ul h5 {
+.programm-block__unit ul .h5 {
   padding: 0 0 16px 0;
   margin: 0;
 }
