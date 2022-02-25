@@ -245,9 +245,117 @@
   border-bottom-right-radius: 5px;
 }
 
+.customer-cases {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.customer-cases__wrapper__block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 50px 0;
+}
+.customer-cases__wrapper__block__unit {
+  width: 33%;
+}
+.customer-cases__wrapper__block__unit__hat {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.customer-cases__wrapper__block__unit__hat img {
+  width: 103px;
+  height: 90px;
+  margin: 0 10px 0 0;
+}
+.customer-cases__wrapper__block__unit__hat__text {
+  margin: auto 0;
+}
+.customer-cases__wrapper__block__unit__before, .customer-cases__wrapper__block__unit__after {
+  padding: 20px 0 0 0;
+}
+.customer-cases__wrapper__block__unit__before ul, .customer-cases__wrapper__block__unit__after ul {
+  padding: 15px 0 0 0;
+  margin: 0;
+}
+.customer-cases__wrapper__block__unit__before ul li, .customer-cases__wrapper__block__unit__after ul li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 0 20px 0;
+}
+.customer-cases__wrapper__block__unit__before ul li svg, .customer-cases__wrapper__block__unit__after ul li svg {
+  margin: 0 10px auto 0;
+  width: 28px;
+  height: 24px;
+}
+.customer-cases a {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+.total .h2 {
+  text-align: center;
+}
+.total__sum {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 60px 0;
+}
+.total__sum__unit {
+  text-align: center;
+}
+.total__sum__unit .h1 {
+  color: #FDD303;
+}
+.total__way {
+  margin: 0 auto;
+}
+.total__reservation {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 70%;
+  margin: 60px auto;
+}
+.total__reservation a, .total__reservation .h6 {
+  width: 50%;
+  margin: 0 12px;
+}
+
 @media screen and (max-width: 1200px) {
   .programm-block {
     border: none;
+  }
+
+  .customer-cases__wrapper__block {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .customer-cases__wrapper__block__unit {
+    width: 50%;
+  }
+  .customer-cases__wrapper__block__unit:last-child {
+    margin: 20px 0 0 0;
   }
 }
 @media screen and (max-width: 992px) {
@@ -314,6 +422,58 @@
   .training-description__block__text {
     width: 100%;
   }
+
+  .customer-cases .h1 {
+    position: relative;
+  }
+  .customer-cases .h1 img {
+    position: absolute;
+    bottom: -42px;
+    right: 0;
+  }
+  .customer-cases__wrapper {
+    overflow-x: scroll;
+  }
+  .customer-cases__wrapper__block {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    width: 1500px;
+  }
+  .customer-cases__wrapper__block__unit {
+    width: 30%;
+  }
+  .customer-cases__wrapper__block__unit:last-child {
+    margin: 0;
+  }
+
+  .total__sum, .total__reservation {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .total__sum {
+    padding: 20px 0;
+  }
+  .total__reservation {
+    width: 100%;
+    margin: 0;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .total__reservation a, .total__reservation .h6 {
+    width: 80%;
+  }
+  .total__reservation a {
+    margin: 10px 0;
+  }
 }
 @media screen and (max-width: 575px) {
   .programm-block {
@@ -356,5 +516,33 @@
   }
   .carousel__buttons {
     display: none;
+  }
+
+  .customer-cases__wrapper {
+    overflow-x: scroll;
+  }
+  .customer-cases__wrapper__block {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    width: 960px;
+  }
+  .customer-cases__wrapper__block__unit {
+    width: 30%;
+  }
+
+  .total__sum {
+    padding: 10px 0;
+  }
+  .total__sum__unit {
+    padding: 10px 0;
+  }
+  .total__reservation a, .total__reservation .h6 {
+    width: 100%;
+  }
+  .total__reservation a {
+    padding: 20px 0;
   }
 }
