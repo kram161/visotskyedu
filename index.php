@@ -311,10 +311,11 @@ date.dd {
                                 </svg>
                             </div>
                             <ul class="list-rhombus-small programm-block__unit__more-information__description">
-                                <li>Как определить главный результат деятельности всего бизнеса</li>
-                                <li>Ценный конечный продукт на уровне сотрудника, руководителя, компании</li>
-                                <li>Роль оргсхемы в ускорении бизнес-процессов: как она влияет на эффективность и производительность каждого подразделения и отдельного сотрудника</li>
-                                <li>Как построить организующую схему компании на основе 7 ключевых функций компании</li>
+                                <li>5 стадий трансформации владельца и его компании, начиная с идеи бизнеса и заканчивая построенной корпорацией</li>
+                                <li>Как меняется роль владельца и его работа в зависимости от того, на какой стадии развития находится бизнес, это даст чёткое понимание того, что вас ждёт на каждом этапе развития вашего бизнеса</li>
+                                <li>Обязанности владельца бизнеса, которые невозможно делегировать</li>
+                                <li>Как предусмотреть и избежать проблем в партнёрстве — одной из самых больших ловушек, подстерегающих владельцев, это знание сэкономит и высвободит вам много времени, чтобы направить его на развитие компании</li>
+                                <li>12 Функций владельца и директора</li>
                             </ul>
                         </div>
                         <ul class="list-rhombus-small list-null">
@@ -346,6 +347,10 @@ date.dd {
                                 <li>Ценный конечный продукт на уровне сотрудника, руководителя, компании</li>
                                 <li>Роль оргсхемы в ускорении бизнес-процессов: как она влияет на эффективность и производительность каждого подразделения и отдельного сотрудника</li>
                                 <li>Как построить организующую схему компании на основе 7 ключевых функций компании</li>
+                                <li>Какие подразделения должны быть в компании, как они должны взаимодействовать между собой и какие у них функции</li>
+                                <li>Как выглядят организационные схемы успешных корпораций</li>
+                                <li>Типичные ошибки при разработке оргсхемы</li>
+                                <li>Как быстро нанимать нужных сотрудников и не допустить типичные ошибки найма</li>
                             </ul>
                         </div>
                         <ul class="list-rhombus-small list-null">
@@ -373,10 +378,13 @@ date.dd {
                                 </svg>
                             </div>
                             <ul class="list-rhombus-small programm-block__unit__more-information__description">
-                                <li>Как определить главный результат деятельности всего бизнеса</li>
-                                <li>Ценный конечный продукт на уровне сотрудника, руководителя, компании</li>
-                                <li>Роль оргсхемы в ускорении бизнес-процессов: как она влияет на эффективность и производительность каждого подразделения и отдельного сотрудника</li>
-                                <li>Как построить организующую схему компании на основе 7 ключевых функций компании</li>
+                                <li>Система измерения результатов сотрудников: как выглядит, как правильно использовать</li>
+                                <li>Как измерять эффективность рабочего времени сотрудника и как отслеживать улучшение или ухудшение результатов</li>
+                                <li>Как измерять результаты работы сотрудника</li>
+                                <li>Как распознать, успешен ли план работы сотрудника</li>
+                                <li>На что ориентироваться при поощрении или наказании сотрудников</li>
+                                <li>Как правильно мотивировать сотрудников на лучшие результаты</li>
+                                <li>Что такое «Информационный Центр Организации» и как использовать этот инструмент для анализа узких мест в компании</li>
                             </ul>
                         </div>
                         <ul class="list-rhombus-small list-null">
@@ -404,10 +412,13 @@ date.dd {
                                 </svg>
                             </div>
                             <ul class="list-rhombus-small programm-block__unit__more-information__description">
-                                <li>Как определить главный результат деятельности всего бизнеса</li>
-                                <li>Ценный конечный продукт на уровне сотрудника, руководителя, компании</li>
-                                <li>Роль оргсхемы в ускорении бизнес-процессов: как она влияет на эффективность и производительность каждого подразделения и отдельного сотрудника</li>
-                                <li>Как построить организующую схему компании на основе 7 ключевых функций компании</li>
+                                <li>Как сделать работу каждого сотрудника и руководителя более осознанной за счет планирования</li>
+                                <li>Что нужно сделать, чтобы сотрудники самостоятельно планировали свою деятельность и старались добиваться максимальных результатов</li>
+                                <li>Три уровня планирования, роль оперативного планирования</li>
+                                <li>Недельное планирование: основные принципы</li>
+                                <li>Какие инструменты нужны для эффективного планирования и как правильно их применять</li>
+                                <li>Принцип формулировки продукта каждой задачи недельного плана</li>
+                                <li>Координация: типы и уровни, основные ошибки и решения</li>
                             </ul>
                         </div>
                         <ul class="list-rhombus-small list-null">
@@ -435,10 +446,15 @@ date.dd {
                                 </svg>
                             </div>
                             <ul class="list-rhombus-small programm-block__unit__more-information__description">
-                                <li>Как определить главный результат деятельности всего бизнеса</li>
-                                <li>Ценный конечный продукт на уровне сотрудника, руководителя, компании</li>
-                                <li>Роль оргсхемы в ускорении бизнес-процессов: как она влияет на эффективность и производительность каждого подразделения и отдельного сотрудника</li>
-                                <li>Как построить организующую схему компании на основе 7 ключевых функций компании</li>
+                                <li>Распространённые ошибки 99% владельцев бизнеса в управлении финансами, которые приводят к тому, что владельцы несут всю ответственность и не получают дивиденды регулярно</li>
+                                <li>Как ответственность за финансы стимулирует рост руководителей</li>
+                                <li>Как функционирует треугольник компетентности сотрудников</li>
+                                <li>Рабочие финансовые модели</li>
+                                <li>Какие инструменты управления помогают приоритезировать статьи расхода</li>
+                                <li>Как при ограниченном бюджете стимулировать компанию расти</li>
+                                <li>Ключевые моменты управления финансами</li>
+                                <li>Что нужно сделать, для того чтобы руководители взяли на себя ответственность за финансы компании и боролись за ежемесячный рост дохода</li>
+                                <li>Как в идеале должна работать система управления финансами</li>
                             </ul>
                         </div>
                         <ul class="list-rhombus-small list-null">
@@ -465,10 +481,12 @@ date.dd {
                                 </svg>
                             </div>
                             <ul class="list-rhombus-small programm-block__unit__more-information__description">
-                                <li>Как определить главный результат деятельности всего бизнеса</li>
-                                <li>Ценный конечный продукт на уровне сотрудника, руководителя, компании</li>
-                                <li>Роль оргсхемы в ускорении бизнес-процессов: как она влияет на эффективность и производительность каждого подразделения и отдельного сотрудника</li>
-                                <li>Как построить организующую схему компании на основе 7 ключевых функций компании</li>
+                                <li>Взаимосвязь инструментов управления и как правильно объединить их в единую систему</li>
+                                <li>Ошибки самостоятельного построения системы и как их избежать</li>
+                                <li>Как получить активную поддержку сотрудников</li>
+                                <li>Как не разрушить успешно работающие процессы и не потерять ценных сотрудников</li>
+                                <li>Какие проблемы возникают на каждом этапе внедрения инструментов управления</li>
+                                <li>Как и в какой последовательности необходимо строить систему в бизнесе.</li>
                             </ul>
                         </div>
                         <ul class="list-rhombus-small list-null">
@@ -676,19 +694,22 @@ date.dd {
                     <div class="h1"><b>Отзывы выпускников</b> онлайн-тренинга “Система эффективного бизнеса”</div>
                     <div class="carousel">
                         <div class="carousel__list">
-                                <div class="carousel__list__element">
-                                    <iframe src="https://www.youtube.com/embed/BfgHIftIG6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                </div>
-                                <div class="carousel__list__element">
-                                    <iframe src="https://www.youtube.com/embed/f0NL7jZLL-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                </div>
-                                <div class="carousel__list__element">
-                                    <iframe src="https://www.youtube.com/embed/KYUF2kzjfis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                </div>
-                                <div class="carousel__list__element">
-                                    <iframe src="https://www.youtube.com/embed/mI2zd_o0Rkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                </div>
+                            <div class="carousel__list__element">
+                                <iframe src="https://www.youtube.com/embed/42O8fq8quvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
+                            <div class="carousel__list__element">
+                                <iframe src="https://www.youtube.com/embed/XT039DDMixc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                            <div class="carousel__list__element">
+                                <iframe src="https://www.youtube.com/embed/_DTeeLpXRr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                            <div class="carousel__list__element">
+                                <iframe src="https://www.youtube.com/embed/-zJXvbDTwXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                            <div class="carousel__list__element">
+                                <iframe src="https://www.youtube.com/embed/MrBGZpYvH88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
                         <div class="carousel__buttons">
                             <div class="carousel__buttons__arrow-left">
                                 <svg width="19" height="18" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1325,7 +1346,7 @@ date.dd {
         <section class="section section--theme-dark results overflow-hidden lazy" data-bg="images/results/bg.webp" id="total">
             <div class="container total">
                 <div class="h2">
-                    С 2020 года в тренинге “Система эффективного бизнеса” Александра Высоцкого <b>приняли участие 4 081 человек</b>
+                    С 2020 года в тренинге “Система эффективного бизнеса” Александра Высоцкого <b>приняли участие 4&nbsp;081 человек</b>
                 </div>
                 <div class="total__sum">
                     <div class="total__sum__unit">

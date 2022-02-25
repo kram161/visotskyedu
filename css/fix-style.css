@@ -84,6 +84,7 @@
 }
 .prices__right svg {
   width: 100%;
+  height: auto;
 }
 .prices__right__text {
   text-align: center;
@@ -253,6 +254,9 @@
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+}
+.customer-cases .h1 img {
+  display: none;
 }
 .customer-cases__wrapper__block {
   display: -webkit-box;
@@ -427,6 +431,7 @@
     position: relative;
   }
   .customer-cases .h1 img {
+    display: block;
     position: absolute;
     bottom: -42px;
     right: 0;
@@ -473,6 +478,10 @@
   }
   .total__reservation a {
     margin: 10px 0;
+  }
+
+  .prices__right svg {
+    margin: 20px 0;
   }
 }
 @media screen and (max-width: 575px) {

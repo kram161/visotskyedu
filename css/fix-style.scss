@@ -71,6 +71,7 @@
   position: relative;
   svg{
     width: 100%;
+    height: auto;
   }
   &__text{
     text-align: center;
@@ -212,6 +213,11 @@
 .customer-cases{
   display: flex;
   flex-direction: column;
+  .h1{
+    img{
+      display: none;
+    }
+  }
   &__wrapper{
     &__block{
       display: flex;
@@ -367,6 +373,7 @@
     .h1{
       position: relative;
       img{
+        display: block;
         position: absolute;
         bottom: -42px;
         right: 0;
@@ -405,6 +412,11 @@
       a{
         margin:10px 0;
       }
+    }
+  }
+  .prices__right{
+    svg{
+      margin:20px 0;
     }
   }
 }
