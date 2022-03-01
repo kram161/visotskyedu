@@ -508,14 +508,14 @@ date.dd {
         </section>
         <section class="section section--theme-yellow">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-6 p-relative">
+                <div class="row training-cost">
+                    <div class="col-md-6 training-cost__description p-relative">
                         <h2 class="h1"><b>Стоимость тренинга</b></h2>
                         <div class="h3"><b>“Система эффективного бизнеса”</b></div>
-                        <div class="prices-list h5">
+                        <div class="prices-list h6">
                             <div class="prices-list__item">
                                 <img class="lazy" data-src="images/prices/1-1.webp" alt="6 дней тренинга">
-                                <div class="prices-list__text">
+                                <div class="prices-list__text h6">
                                     <b>6 дней тренинга</b> с разбором элементов системы масштабирования от Александра
                                     Высоцкого
                                 </div>
@@ -523,7 +523,7 @@ date.dd {
                             <div class="prices-list__item ai-start">
                                 <img class="lazy" data-src="images/prices/1-2.webp"
                                      alt="9+ инструментов управления бизнесом">
-                                <div class="prices-list__text">
+                                <div class="prices-list__text h6">
                                     <b>9+</b> инструментов управления бизнесом (найм, финансы, статистики, планирование
                                     и др.)
                                 </div>
@@ -531,21 +531,21 @@ date.dd {
                             <div class="prices-list__item ai-start">
                                 <img class="lazy" data-src="images/prices/1-3.webp"
                                      alt="по 2 часа интенсивной прокачки">
-                                <div class="prices-list__text">
+                                <div class="prices-list__text h6">
                                     <b>Разборы практических заданий</b> с обратной связью консультанта
                                 </div>
                             </div>
                             <div class="prices-list__item ai-start">
                                 <img class="lazy" data-src="images/prices/1-4.webp"
                                      alt="Разбор консультанта с полным сопровождением до результата">
-                                <div class="prices-list__text">
+                                <div class="prices-list__text h6">
                                     <b>31 готовый документ</b> (регламенты, политики и должностные инструкции)
                                 </div>
                             </div>
                             <div class="prices-list__item ai-start">
                                 <img class="lazy" data-src="images/prices/1-5.webp"
                                      alt="31 готовый документ (регламенты, политики и должностные инструкции)">
-                                <div class="prices-list__text">
+                                <div class="prices-list__text h6">
                                     <b>Доступ</b> к записям тренинга <b>на год</b>
                                 </div>
                             </div>
@@ -553,7 +553,7 @@ date.dd {
                         <a class="btn prices__button btn--arrow btn--hover-black" href="#feedback" rel="modal:open">Оставить
                             заявку</a>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 training-cost__image">
                         <div class="prices__right">
                             <svg width="461" height="610" viewBox="0 0 461 610" fill="none"
                                  xmlns="http://www.w3.org/2000/svg">

@@ -79,6 +79,10 @@
   border-radius: 10px;
 }
 
+.training-cost__description, .training-cost__image {
+  padding: 0;
+}
+
 .prices__right {
   position: relative;
 }
@@ -553,5 +557,10 @@
   }
   .total__reservation a {
     padding: 20px 0;
+  }
+
+  .prices__button-mobile {
+    max-width: 400px;
+    width: 100%;
   }
 }

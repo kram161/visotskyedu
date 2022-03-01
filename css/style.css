@@ -4824,7 +4824,9 @@ a {
 .h5 {
     font-size: 1.125rem
 }
-
+.h6{
+    font-size: 1rem;
+}
 small {
     font-size: .875rem;
     line-height: 130%;
@@ -5228,7 +5230,7 @@ img:not([src]):not([srcset]) {
 }
 
 .prices-list__text {
-    margin:auto 0 auto 1.5625rem;
+    margin:auto 0 auto 0.5rem;
 }
 
 .prices-list__disabled {
@@ -6031,7 +6033,6 @@ textarea.form-input {
     .h4 {
         font-size: 1.125rem
     }
-
     .container {
         padding-left: 1rem;
         padding-right: 1rem
@@ -6087,7 +6088,9 @@ textarea.form-input {
     .site-header__logo-text {
         max-width: 220px
     }
-
+    .h6{
+        font-size: 0.9rem
+    }
     .site-header__row {
         height: 5rem
     }
